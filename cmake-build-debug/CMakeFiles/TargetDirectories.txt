@@ -1,0 +1,3 @@
+G:/project/C/Calculate the cost of an Internet service provider/cmake-build-debug/CMakeFiles/Calculate_the_cost_of_an_Internet_service_provider.dir
+G:/project/C/Calculate the cost of an Internet service provider/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project/C/Calculate the cost of an Internet service provider/cmake-build-debug/CMakeFiles/rebuild_cache.dir
